@@ -1,0 +1,6 @@
+﻿  BISECTION METHOD.cpp
+C:\Users\DELL\Desktop\BISECTION METHOD\BISECTION METHOD.cpp(64,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\BISECTION METHOD\BISECTION METHOD.cpp(72,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\BISECTION METHOD\BISECTION METHOD.cpp(104,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\BISECTION METHOD\BISECTION METHOD.cpp(108,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BISECTION METHOD.vcxproj -> C:\Users\DELL\Desktop\BISECTION METHOD\Debug\BISECTION METHOD.exe
